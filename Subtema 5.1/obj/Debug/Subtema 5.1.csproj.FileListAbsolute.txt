@@ -1,0 +1,7 @@
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\bin\Debug\Subtema 5.1.exe.config
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\bin\Debug\Subtema 5.1.exe
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\bin\Debug\Subtema 5.1.pdb
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\obj\Debug\Subtema 5.1.csproj.AssemblyReference.cache
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\obj\Debug\Subtema 5.1.csproj.CoreCompileInputs.cache
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\obj\Debug\Subtema 5.1.exe
+C:\Users\UCA40410\Desktop\Subtema 5.1\Subtema 5.1\Subtema 5.1\obj\Debug\Subtema 5.1.pdb
